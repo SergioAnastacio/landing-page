@@ -10,4 +10,4 @@ Use Terminal to up services
 $ docker compose up
 ```
 
-Check : Localhost:80
+Check : Localhost:8080
